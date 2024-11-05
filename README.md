@@ -1,7 +1,7 @@
 ## 👋 Welcome!
 ---
 
-I am an engineer just doing my thing. I went to school at University of Illinois at Urbana-Champaign (UIUC) and graduated there with Bachelor's in Science majoring in Electrical Enineering with two minors in Computer Science and Mathematics. Interested in both hardware and software, so things like embedded systems really get me going 😜.<br><br>
+I am an engineer just doing my thing. I am currently a Masters student at Johns Hopkins University studying electrical and computer engineering. I did my undergrad at University of Illinois at Urbana-Champaign (UIUC) and graduated there with Bachelor's in Science majoring in Electrical Enineering with two minors in Computer Science and Mathematics. Interested in both hardware and software, so things like embedded systems really get me going 😜.<br><br>
 I plan on adding any personal projects I do throughout the years here but right now, the repo is full of projects and assignments from my coursework during university.<br><br>Enjoy your visit!
 
 ## 💡 Interests
